@@ -1,0 +1,3 @@
+GAN: dcgan/output/images/, FID: 0.2614863012266536, Inception Score: 0.02712032464724634
+GAN: wgan/output/images/, FID: 0.037931725042925524, Inception Score: 0.9709742952615751
+GAN: acgan/output/images/, FID: 0.23968863665602302, Inception Score: 0.6814919197991428
